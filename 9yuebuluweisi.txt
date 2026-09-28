@@ -55,3 +55,5 @@
     • 河南24元权益金-SKU000202508281653326012ba: 24.00元(1个)
     • 3元权益金-SKU00020250722095203989808: 15.00元(5个)
   本组需付款(合并去重): 0.00元
+  查询地址: http://168.138.88.181:3210/?m=9&k=buluweisi
+  国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/9yuebuluweisi.txt
