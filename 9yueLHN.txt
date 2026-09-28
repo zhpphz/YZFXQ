@@ -119,3 +119,5 @@
     • 10元权益金-SKU00020250722100049136538: 50.00元(5个)
     • 话费充值券包 价值9元: 45.00元(5个)
   本组需付款(合并去重): 16.00元
+  查询地址: http://168.138.88.181:3210/?m=9&k=LHN
+  国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/9yueLHN.txt
