@@ -73,3 +73,5 @@
     • 3元权益金-SKU00020250722095203989808: 48.00元(16个)
     • 15元权益金-SKU0002025073009073922427c: 15.00元(1个)
   本组需付款(合并去重): 14.00元
+  查询地址: http://168.138.88.181:3210/?m=9&k=mengxiang
+  国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/9yuemengxiang.txt
