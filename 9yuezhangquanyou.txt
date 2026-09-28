@@ -132,3 +132,5 @@
     • 话费充值券包 价值18元: 360.00元(20个)
     • 话费充值券包 价值9元: 153.00元(17个)
   本组需付款(合并去重): 16.00元
+  查询地址: http://168.138.88.181:3210/?m=9&k=zhangquanyou
+  国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/9yuezhangquanyou.txt
