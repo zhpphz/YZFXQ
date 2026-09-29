@@ -16,4 +16,3 @@
     • 话费充值券包 价值18元: 18.00元(1个)
     • 15元权益金-SKU00020250630154939136e67: 15.00元(1个)
   本组需付款(合并去重): 3.00元
-  国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/9yuekong.txt
