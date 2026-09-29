@@ -25,4 +25,3 @@
     • 15元权益金-SKU0002025073009073922427c: 15.00元(1个)
     • 3.3元通用权益金-SKU00020250821101956591f8c: 6.60元(2个)
   本组需付款(合并去重): 2.00元
-  国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/9yuehaiweishen.txt
