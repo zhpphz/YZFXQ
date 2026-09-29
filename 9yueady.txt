@@ -86,5 +86,4 @@
     • 10元权益金-SKU00020250722100049136538: 90.00元(9个)
     • 3元权益金-SKU00020250722095203989808: 54.00元(18个)
   本组需付款(合并去重): 20.00元
-  查询地址: http://168.138.88.181:3210/?m=9&k=ady
   国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/9yueady.txt
