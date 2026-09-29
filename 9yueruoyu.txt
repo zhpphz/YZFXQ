@@ -53,4 +53,3 @@
     • 话费充值券包 价值18元: 90.00元(5个)
     • 话费充值券包 价值9元: 63.00元(7个)
   本组需付款(合并去重): 5.00元
-  国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/9yueruoyu.txt
