@@ -124,4 +124,3 @@
     • 话费充值券包 价值9元: 9.00元(1个)
     • 3.3元通用权益金-SKU00020250821101956591f8c: 6.60元(2个)
   本组需付款(合并去重): 18.00元
-  国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/9yuezuoyou.txt
