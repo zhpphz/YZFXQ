@@ -14,4 +14,3 @@
   各类型明细:
     • 话费充值券包 价值24元: 24.00元(1个)
   本组需付款(合并去重): 1.00元
-  国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/9yuexianyutaohong.txt
