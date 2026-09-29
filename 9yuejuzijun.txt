@@ -41,5 +41,4 @@
     • 话费充值券包 价值24元: 96.00元(4个)
     • 话费充值券包 价值18元: 54.00元(3个)
   本组需付款(合并去重): 7.00元
-  查询地址: http://168.138.88.181:3210/?m=9&k=juzijun
   国外: https://raw.githubusercontent.com/zhpphz/dxdhxq/refs/heads/main/9yuejuzijun.txt
